@@ -5,6 +5,9 @@
 
 https://toyshop.awbauer.dev 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/756aa005-cbd7-4af8-aebb-6ae1bd5c14f5/deploy-status)](https://app.netlify.com/sites/toy-shop/deploys)
+
+
 (Let me know if we have any dev domains! Would love to move this somewhere else. PS-branded? PardotToyShop.dev?)
 
 
